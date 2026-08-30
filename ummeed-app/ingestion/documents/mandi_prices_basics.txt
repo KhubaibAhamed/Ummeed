@@ -1,0 +1,11 @@
+Understanding Mandi Prices and Minimum Support Price
+
+A mandi is a regulated agricultural market where farmers bring their produce to sell, typically through an auction process supervised by the Agricultural Produce Market Committee, or APMC, in that state. Prices at a mandi change daily based on the quantity of produce arriving, its quality grade, and demand from traders and processors on that particular day, which is why the same crop can fetch different prices even a day apart at the same mandi.
+
+Minimum Support Price, or MSP, is a floor price set by the government for certain crops, primarily cereals, pulses, and oilseeds, before each growing season. MSP exists to protect farmers from distress sales at very low prices during years of bumper harvest, when market prices might otherwise fall sharply due to oversupply. Government agencies are meant to procure crops at MSP when market prices fall below it, though the extent of actual procurement varies significantly by crop and by state, with wheat and paddy historically seeing the most consistent procurement.
+
+Farmers can generally get a better price by improving the quality grading of their produce — properly dried, cleaned, and sorted grain with minimal foreign matter and broken grains commands a higher price than the same crop sold with more impurities, since mandis grade produce and price it accordingly.
+
+Timing of sale also affects the price received. Selling immediately at harvest, when supply from many farmers arrives at once, often means lower prices due to oversupply in the market on those days. Farmers with proper on-farm storage who can hold produce for a few weeks or months, if their financial situation allows it, sometimes get better prices later in the season as the initial glut clears, though this needs to be weighed against storage costs and the risk of price fluctuation in either direction.
+
+E-NAM, the National Agriculture Market, is an online trading platform that connects mandis across states, letting farmers and buyers see prices at other markets rather than being limited to information from just their local mandi. This transparency has helped some farmers time and route their sales better, though internet access and awareness of the platform remain uneven across regions.

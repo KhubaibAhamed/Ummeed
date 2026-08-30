@@ -1,0 +1,13 @@
+Making Farming Decisions Around Weather
+
+Sowing timing is one of the most weather-sensitive decisions a farmer makes. Sowing too early, before the monsoon or irrigation water is reliably available, risks seed or seedling loss to drought stress right after germination — the most vulnerable stage for most crops. Sowing too late can push flowering and grain-filling into a period of excessive heat or into the next season's unfavorable weather, reducing yield even if the crop survives.
+
+Heavy rainfall around flowering time is particularly damaging for many crops. In cereals like wheat and rice, heavy rain and wind during flowering can cause lodging, where the plant stem bends or breaks under the combined weight of rain and grain, making harvest difficult and reducing yield. In pulses and oilseeds, heavy rain during flowering can wash away pollen and reduce pod or seed set.
+
+Temperature extremes affect crops differently depending on growth stage. Heat stress during flowering is often more damaging than the same temperature during vegetative growth, since it can cause flower and pod drop or reduce pollen viability in many crops. Cold snaps during the grain-filling stage of winter cereals like wheat can shrivel grain and reduce both yield and quality even if the plant itself survives.
+
+Farmers can partially manage weather risk through variety selection — some varieties are bred specifically for drought tolerance, heat tolerance during flowering, or shorter duration to escape a predicted unfavorable period later in the season. Choosing a variety suited to the typical weather pattern of a region, rather than only its yield potential, often produces more consistent results over several seasons.
+
+Weather-based crop insurance schemes, where available, pay out based on rainfall or temperature triggers recorded at a reference weather station, rather than requiring individual field inspection after a loss. These can provide a faster payout than traditional yield-loss assessment insurance, though the payout is tied to the reference station's data, which may not always exactly match conditions on an individual farmer's field.
+
+Watching short-term forecasts before major field operations — spraying pesticide, applying fertilizer, or harvesting — helps avoid wasted input, since heavy rain shortly after spraying or fertilizing can wash the application away before it takes effect, and rain during harvest can damage cut crop left drying in the field.

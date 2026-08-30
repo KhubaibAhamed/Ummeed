@@ -1,0 +1,13 @@
+Integrated Pest Management for Field Crops
+
+Integrated Pest Management, or IPM, combines multiple strategies to keep pest damage below economically harmful levels while minimizing chemical pesticide use. The approach starts with regular field scouting — walking the field at least twice a week during the growing season to spot early signs of pest activity before an infestation spreads.
+
+Cultural controls are the first line of defense. Crop rotation breaks the life cycle of pests that depend on a specific host plant; for example, rotating cotton with a cereal crop reduces buildup of cotton bollworm populations in the soil. Removing crop residue after harvest also denies overwintering pests a place to survive until the next season.
+
+Biological controls use natural predators and parasites to keep pest populations in check. Ladybird beetles and lacewings feed on aphids, while parasitic wasps lay eggs inside caterpillar pests like the fall armyworm, killing them before they mature. Planting border rows of flowering plants like marigold can attract these beneficial insects to the field.
+
+Pheromone traps are a low-cost monitoring tool — they use synthetic versions of insect mating scents to lure and trap male pests, letting farmers track pest population levels without spraying anything. A sudden rise in trap catches signals it may be time to consider intervention.
+
+Chemical pesticides should be a last resort, used only when pest counts cross an economic threshold — the point where the cost of crop damage would exceed the cost of treatment. When pesticides are necessary, rotating between different chemical classes prevents pests from developing resistance, and spraying in the early morning or late evening protects pollinators like bees, which are most active at midday.
+
+Common signs of pest damage to watch for: irregular holes in leaves suggest chewing insects like caterpillars or beetles; yellowing and curling leaves often indicate sap-sucking pests like aphids or whiteflies; and sudden wilting of a single plant while neighbors stay healthy can point to soil-borne pests attacking the root system.

@@ -1,0 +1,21 @@
+# Python rules
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+*.log
+
+# React/Node rules
+node_modules/
+dist/
+build/
+.eslintcache
+.project
+
+# IDE & OS files
+.idea/
+.vscode/
+.DS_Store
